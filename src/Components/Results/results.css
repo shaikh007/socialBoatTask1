@@ -1,0 +1,73 @@
+.hero-results {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background: url(/fitnesswebsites-2.webp) no-repeat;
+    background-size: 100%;
+    padding: 80px 50px;
+}
+
+.hero-results div {
+    margin-bottom: 30px;
+}
+
+.hero-results div p {
+    text-align: center;
+    font-weight: 700;
+    font-size: 74px;
+    color: rgb(115 92 92);
+}
+
+.hero-results div button {
+    padding: 21px 52px;
+    border: none;
+    outline: none;
+    background-color: #89896d;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+@media (max-width: 420px) {
+    .hero-results {
+        width: 100%;
+        height: auto;
+        padding: 30px 10px;
+    }
+    .hero-results div p {
+        font-size: 20px;
+    }
+    .hero-results div button {
+        padding: 11px 32px;
+        font-weight: 700;
+        font-size: 20px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 800px) {
+    .hero-results {
+        width: 100%;
+        height: auto;
+        padding: 30px 10px;
+    }
+    .hero-results div p {
+        font-size: 20px;
+    }
+    .hero-results div button {
+        padding: 11px 32px;
+        font-weight: 700;
+        font-size: 20px;
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 1050px) {
+    .hero-results div p {
+        font-size: 40px;
+    }
+}
