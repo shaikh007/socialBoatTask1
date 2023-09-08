@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/socialBoatTask1/static/css/main.abe5b241.css",
+    "main.js": "/socialBoatTask1/static/js/main.193dfe05.js",
+    "static/js/787.9ca66811.chunk.js": "/socialBoatTask1/static/js/787.9ca66811.chunk.js",
+    "static/media/fitnesswebsites-2.webp": "/socialBoatTask1/static/media/fitnesswebsites-2.5fcbf02385013d9c2296.webp",
+    "index.html": "/socialBoatTask1/index.html",
+    "main.abe5b241.css.map": "/socialBoatTask1/static/css/main.abe5b241.css.map",
+    "main.193dfe05.js.map": "/socialBoatTask1/static/js/main.193dfe05.js.map",
+    "787.9ca66811.chunk.js.map": "/socialBoatTask1/static/js/787.9ca66811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abe5b241.css",
+    "static/js/main.193dfe05.js"
+  ]
+}
