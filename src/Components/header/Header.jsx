@@ -8,7 +8,6 @@ const Header = ({
   setSearch,
   setNumResult,
   numResult,
-  data,
   setData,
   inputRef,
   focused,
